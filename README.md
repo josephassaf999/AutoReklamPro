@@ -1,4 +1,4 @@
-
+# AutoReklamPro
 AutoReklamPro is a Python-based automation tool designed to streamline the process of generating PDF documents (called "reklams") from structured data contained in Excel spreadsheets. It is particularly useful for businesses—such as car dealerships—that need to produce marketing flyers, receipts, or informational sheets in bulk.
 
 
